@@ -19,20 +19,15 @@ Welcome to **Unique_Tech**! This repository contains my software development pro
 - C
 - C++
 - Java
-- Python
 - C#
-- JavaScript
-
-- MySQL
 - SQL
 
 ### Tools
 - Visual Studio
-- GitHub
 - XAMPP
 
 
-## 💼 Work Experience
+## Work Experience
 
 ### Software Engineering Student
 
