@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tumukunde Aline
+# Hi, I'm Tumukunde Aline
 
 ## Software Engineer | Web Developer | Tech Enthusiast
 
@@ -51,4 +51,4 @@ Welcome to **Unique_Tech**! This repository contains my software development pro
 
 To become a skilled software engineer who develops innovative and user-friendly software solutions.
 
-⭐ Thank you for visiting **Unique_Tech**!
+ Thank you for visiting **Unique_Tech**!
