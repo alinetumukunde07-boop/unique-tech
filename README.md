@@ -1,11 +1,5 @@
 # Hi, I'm Tumukunde Aline
 
-## Software Engineer | Web Developer | Tech Enthusiast
-
-Welcome to **Unique_Tech**! This repository contains my software development projects and learning journey. I enjoy building modern applications and continuously improving my programming and problem-solving skills.
-
----
-
 ##  About Me
 
 -  I  am Software Engineering Student with Passionate about Web Development am Always learning new technologies is to Love collaborating on projects
